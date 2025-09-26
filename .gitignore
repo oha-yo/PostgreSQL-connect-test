@@ -6,22 +6,6 @@
 .project
 .settings/
 
-# IntelliJ IDEA
-*.iml
-.idea/
-out/
-
-# NetBeans
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-
-# VS Code
-.vscode/
-
 # OS固有ファイル
 .DS_Store
 Thumbs.db
